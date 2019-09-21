@@ -1,5 +1,7 @@
 # LINE Things Starter
 
+test!
+
 LINE Things Developer Trial 向けのサンプルコードです。
 
 LINE Things 対応デバイスを作成するためのファームウェアと、LIFF アプリのコード、サンプル LINE Bot が含まれています。
